@@ -1,0 +1,8 @@
+<html>
+        <head>
+            <title> FastAPI do Deco </title>
+        </head>
+        <body>
+            <h1> Meu teste de app + test - Sem schemas implementados </h1>
+            <h2> Testando resposta HTML e PyTest de função :D </h2>
+        </body>
